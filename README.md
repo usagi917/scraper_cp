@@ -1,4 +1,4 @@
-```markdown
+
 # Company Information Scraper
 
 ## 概要
@@ -104,7 +104,7 @@
     "job_seeker_info": "A great workplace for innovation-driven individuals."
   }
 }
-```
+
 
 ## ライセンス
 このプロジェクトはMITライセンスのもとで提供されています。詳細は[LICENSE](LICENSE)ファイルをご確認ください。
